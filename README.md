@@ -2,7 +2,7 @@
 Library of Netscript (Modifed Javascript) scripts for the [Bitburner](https://danielyxie.github.io/bitburner/) game.
 This repository is still a work in progress.
 
-Installation:
+### Installation:
 Create a script called init.js within the home directory within the game.
 The below script isn't working as of right now, I'll get to it later.
 ```sh

@@ -1,0 +1,10 @@
+# -------
+# Aliases
+# -------
+alias startup="run /lib/startup.js"
+alias con="run /lib/connect.js"
+
+# -------
+# Unalias
+# -------
+unalias startup
